@@ -155,7 +155,7 @@ A continuación puedes ver una captura de como se ve cuando los contenedores fun
 
 # Créditos
 
-Desarrollado por Hugo Escalpelo
-- [hugoescalpelo.com](https://hugoescalpelo.com/)
-- [Página en Facebook](https://www.facebook.com/Hugo-Escalpelo-Profesional-337708683840136)
-- [GitHub](https://github.com/hugoescalpelo)
+Desarrollado por Karen Luna
+
+- [Página en Instagram](https://www.instagram.com/karen.luna14/)
+- [GitHub](https://github.com/Luneli014)
